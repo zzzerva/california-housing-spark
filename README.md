@@ -18,8 +18,8 @@ Bu proje, **Kaggle California Housing** veri setini kullanarak ev fiyatlarını 
 | **Linear Regression** | 69538.44    | 69685.93  | 0.6378    | 0.6323  |
 | **GBTRegressor**      | 54504.84    | 58985.82  | 0.7775    | 0.7365  |
 
-1️⃣ Gerekli kütüphaneleri yükleyin:  
+### 1️⃣ Gerekli kütüphaneleri yükleyin:  
 ```bash
-pip install pyspark pandas matplotlib seaborn ```
+pip install pyspark pandas matplotlib seaborn
 
 2️⃣ Jupyter Notebook'u açın ve main.ipynb dosyasını çalıştırın.
