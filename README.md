@@ -20,6 +20,6 @@ Bu proje, **Kaggle California Housing** veri setini kullanarak ev fiyatlarını 
 
 1️⃣ Gerekli kütüphaneleri yükleyin:  
 ```bash
-pip install pyspark pandas matplotlib seaborn
+pip install pyspark pandas matplotlib seaborn ```
 
 2️⃣ Jupyter Notebook'u açın ve main.ipynb dosyasını çalıştırın.
